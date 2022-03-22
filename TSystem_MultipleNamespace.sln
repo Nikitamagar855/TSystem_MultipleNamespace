@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1831
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSystem_MultipleNamespace", "TSystem_MultipleNamespace\TSystem_MultipleNamespace.csproj", "{FD791DA2-C4AA-40E3-A47E-AC5712F148D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD791DA2-C4AA-40E3-A47E-AC5712F148D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD791DA2-C4AA-40E3-A47E-AC5712F148D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD791DA2-C4AA-40E3-A47E-AC5712F148D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD791DA2-C4AA-40E3-A47E-AC5712F148D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95942846-A701-40FF-AD18-D7BE5242CFE1}
+	EndGlobalSection
+EndGlobal
